@@ -1,6 +1,6 @@
 # TRIVIA
 
-Trivia game made with react as frontend and node.js over express as backend.
+Trivia api made with react as frontend and node.js over express as backend.
 
 Api for the [TRIVIA](https://github.com/matiascfgm/react-trivia) repository. Made with React.
 
