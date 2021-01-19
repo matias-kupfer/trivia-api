@@ -11,7 +11,7 @@ admin.initializeApp({
 
 // Express config
 const app = express();
-app.use(cors({origin: true}));
+app.use(cors())
 app.use(express.json());
 
 // API
@@ -26,8 +26,7 @@ app.post('/', (request, response) => {
 // Route middlewares
 import {playRoute} from "./Routes/play";
 
-app.use('/play/', playRoute);
-
+app.use('/trail/', playRoute);
 
 exports.api = functions.https.onRequest(app);
 // app.listen(3000, () => console.log('Server up and running'));
