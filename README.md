@@ -4,7 +4,7 @@ Trivia api made with react as frontend and node.js over express as backend.
 
 Api for the [TRIVIA](https://github.com/matiascfgm/react-trivia) repository. Made with React.
 
-You can play it here ---> [PLAY TRIVIA](http://projects.matiaskupfer.com/react-trivia/)
+You can play it here ---> [PLAY TRIVIA](https://projects.matiaskupfer.com/react-trivia/)
 
 This game was made under CC BY-SA 4.0 with this ---> [FREE API](https://opentdb.com/)
 
